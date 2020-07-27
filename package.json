@@ -2,7 +2,7 @@
     "name": "codex",
     "displayName": "Codex",
     "description": "Codex is a collection of Visual Studio Code extensions",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.44.0"
