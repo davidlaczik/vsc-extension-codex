@@ -1,9 +1,11 @@
 # Change Log
 
-All notable changes to the "codex" extension pack will be documented in this file.
-
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [2.0.0] - 2020-07-27
 
-- Initial release
+- Remove local only extensions
+
+## [1.0.0.] - 2019-09-08
+
+- Extensions added to the extension pack
