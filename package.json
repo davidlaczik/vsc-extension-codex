@@ -1,49 +1,49 @@
 {
-    "name": "codex",
-    "displayName": "Codex",
-    "description": "Codex is a collection of Visual Studio Code extensions",
-    "version": "2.0.0",
-    "icon": "images/icon.png",
-    "engines": {
-        "vscode": "^1.44.0"
-    },
-    "publisher": "davidlaczik",
-    "categories": [
-        "Extension Packs"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/davidlaczik/codex"
-    },
-    "extensionPack": [ 
-        "Angular.ng-template", 
-        "bierner.markdown-preview-github-styles", 
-        "christian-kohler.npm-intellisense", 
-        "christian-kohler.path-intellisense", 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "eg2.vscode-npm-script", 
-        "esbenp.prettier-vscode", 
-        "fernandoescolar.vscode-solution-explorer", 
-        "foxundermoon.shell-format", 
-        "jasonnutter.search-node-modules", 
-        "jchannon.csharpextensions", 
-        "mrmlnc.vscode-scss", 
-        "ms-azuretools.vscode-docker", 
-        "ms-dotnettools.csharp", 
-        "ms-python.python", 
-        "ms-vscode.vscode-typescript-tslint-plugin", 
-        "nrwl.angular-console", 
-        "oderwat.indent-rainbow", 
-        "patbenatar.advanced-new-file", 
-        "pranaygp.vscode-css-peek", 
-        "ritwickdey.LiveServer", 
-        "streetsidesoftware.code-spell-checker", 
-        "Tyriar.sort-lines", 
-        "VisualStudioExptTeam.vscodeintellicode", 
-        "waderyan.nodejs-extension-pack", 
-        "wix.vscode-import-cost", 
-        "yatki.vscode-surround", 
-        "Zignd.html-css-class-completion"
-    ]
+	"name": "codex",
+	"displayName": "Codex",
+	"description": "Codex is a collection of Visual Studio Code extensions",
+	"version": "3.0.0",
+	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^1.44.0"
+	},
+	"publisher": "davidlaczik",
+	"categories": [
+		"Extension Packs"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/davidlaczik/codex"
+	},
+	"extensionPack": [
+		"akamud.vscode-theme-onedark",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"streetsidesoftware.code-spell-checker",
+		"pranaygp.vscode-css-peek",
+		"ms-azuretools.vscode-docker",
+		"mikestead.dotenv",
+		"dbaeumer.vscode-eslint",
+		"eamodio.gitlens",
+		"ecmel.vscode-html-css",
+		"wix.vscode-import-cost",
+		"oderwat.indent-rainbow",
+		"ritwickdey.LiveServer",
+		"bierner.markdown-preview-github-styles",
+		"PKief.material-icon-theme",
+		"eg2.vscode-npm-script",
+		"christian-kohler.npm-intellisense",
+		"christian-kohler.path-intellisense",
+		"esbenp.prettier-vscode",
+		"ms-vscode-remote.vscode-remote-extensionpack",
+		"ms-vscode-remote.remote-ssh-edit",
+		"rust-lang.rust",
+		"mrmlnc.vscode-scss",
+		"foxundermoon.shell-format",
+		"Tyriar.sort-lines",
+		"yatki.vscode-surround",
+		"TabNine.tabnine-vscode",
+		"bradlc.vscode-tailwindcss",
+		"VisualStudioExptTeam.vscodeintellicode"
+	]
 }
